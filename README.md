@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedroeuropeu
 - 👀 I’m interested in Java and new technology enthusiast
-- 🌱 I’m currently java architech and DevOps
+- 🌱 I’m currently java architect and DevOps
 - 💞️ I’m looking to collaborate on project open source
 - 📫 How to reach me: https://www.linkedin.com/in/pedroeuropeu/
 
